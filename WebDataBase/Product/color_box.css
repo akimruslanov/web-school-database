@@ -1,0 +1,18 @@
+.color_box_1{
+  background: rgba(83,245,24,1)
+}
+.color_box_2{
+  background: rgba(24, 245, 186, 1);
+}
+.color_box_3{
+  background: rgba(24, 193,245,1);
+}
+.color_box_4{
+  background: rgba(76, 24, 245, 1);
+}
+.color_box_5{
+  background: rgba(245, 24, 83, 1);
+}
+.no_highlight{
+  outline: none;
+}
